@@ -2,6 +2,7 @@
 
 * Студент: [Владислав Спирин](https://up.htmlacademy.ru/htmlcss/39/user/2222513).
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
+* Проект: [Седона](https://vmo0n.github.io/2222513-sedona-39/).
 
 ---
 
